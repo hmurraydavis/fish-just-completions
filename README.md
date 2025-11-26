@@ -24,6 +24,18 @@ Or add to your `fishfile`:
 hmurraydavis/fish-just-completions
 ```
 
+### Using [OMF](https://github.com/oh-my-fish/oh-my-fish) (Oh My Fish)
+
+```fish
+omf install hmurraydavis/fish-just-completions
+```
+
+### Using [Fisherman](https://github.com/fisherman/fisherman)
+
+```fish
+fisher install hmurraydavis/fish-just-completions
+```
+
 ### Manual Installation
 
 **Option 1: Use the install script (easiest)**
